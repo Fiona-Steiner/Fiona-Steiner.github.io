@@ -1,4 +1,3 @@
-# fiona-steiner.github.io
-Curriculum Vitae
+# Curriculum Vitae
 
-[fiona-steiner.github.io](fiona-steiner.github.io)
+[https://fiona-steiner.github.io](https://fiona-steiner.github.io)
